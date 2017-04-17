@@ -1,12 +1,12 @@
 h1{
-      front-side:80px;
+      font-size:80px;
       color:red;
 }
 img{
        height:500px;
-       width:aunto;
+       width:auto;
 }
 #special{
-           front-side:40px;
+           font-size:40px;
            color:blue;
 }
